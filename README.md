@@ -15,6 +15,9 @@ Top States: Maharashtra, Karnataka, and Uttar Pradesh were the leading sales con
 Sales Channels: Amazon contributed 35% of the total sales in 2022.
 Order Fulfillment: Most orders were successfully delivered.
 
+# Data Visualization
+![image alt](https://github.com/amneet601/Annual-Sales-Insights/blob/9420bb2e0f407ff342a9057dcfd341343297a7bb/WhatsApp%20Image%202025-03-19%20at%204.36.17%20AM%20(1).jpeg?raw==true)
+
 # Recommendations
 Target women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh.
 Focus marketing efforts on Amazon, Flipkart, and Myntra.
